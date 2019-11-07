@@ -1,0 +1,6 @@
+C:\Users\jOSHUA\source\repos\Auntenticaction\Auntenticaction\bin\Debug\Auntenticaction.exe.config
+C:\Users\jOSHUA\source\repos\Auntenticaction\Auntenticaction\bin\Debug\Auntenticaction.exe
+C:\Users\jOSHUA\source\repos\Auntenticaction\Auntenticaction\bin\Debug\Auntenticaction.pdb
+C:\Users\jOSHUA\source\repos\Auntenticaction\Auntenticaction\obj\Debug\Auntenticaction.csprojAssemblyReference.cache
+C:\Users\jOSHUA\source\repos\Auntenticaction\Auntenticaction\obj\Debug\Auntenticaction.exe
+C:\Users\jOSHUA\source\repos\Auntenticaction\Auntenticaction\obj\Debug\Auntenticaction.pdb
